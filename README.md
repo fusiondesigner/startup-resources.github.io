@@ -22,7 +22,7 @@ A curated collection of tools, directories and finance resources to help you bui
 - [Lighter Capital Founders' Hub](https://www.lightercapital.com/founders-hub) – a library of guides on raising capital and mastering cash‑flow management.  
 
 ## AI Tools & Large Language Models (LLMs)  
-- [Cursor (code editor)](https://en.wikipedia.org/wiki/Cursor_(code_editor)) – an AI‑assisted integrated development environment built on Visual Studio Code that allows developers to generate or update code using natural language prompts.  
+- [Cursor (code editor)](https://cursor.com/) – an AI‑assisted integrated development environment built on Visual Studio Code that allows developers to generate or update code using natural language prompts.  
 - [Founder Institute Insights](https://fi.co/insights) – a collection of articles and resources, including a living spreadsheet cataloging AI tools for ideation and validation and other startup topics.  
 
 ---  
