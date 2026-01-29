@@ -20,13 +20,10 @@ A curated collection of tools, directories and finance resources to help you bui
 
 ## Finance & Funding Resources  
 - [Lighter Capital Founders' Hub](https://www.lightercapital.com/founders-hub) – a library of guides on raising capital and mastering cash‑flow management.  
-- [Mercury’s Free Tools for Startups](https://mercury.com/blog/free-startup-tools) – a guide to free tools across collaboration, project management, CRM and marketing, emphasising financial clarity.  
 
 ## AI Tools & Large Language Models (LLMs)  
-- [Cursor](https://www.cursor.com/) – an AI-assisted integrated development environment built on Visual Studio Code that allows developers to generate or update code using natural language prompts.  
-- [AI Tools for Startup Ideation and Validation](https://fi.co/insight/ai-tools-for-startup-ideation-and-validation) – a living spreadsheet from the Founder Institute that organizes AI tools by task for ideation and validation.  
-- [Best Large Language Models in 2026](https://zapier.com/blog/best-large-language-models/) – Zapier’s overview of significant and popular LLMs including ChatGPT, Google’s models and Apple Intelligence.  
-- [Top LLMs for Businesses Ranked](https://teamai.com/article/best-large-language-models) – analysis of performance, context length, cost efficiency and ethical compliance when choosing LLMs for business use.  
+- [Cursor (code editor)](https://en.wikipedia.org/wiki/Cursor_(code_editor)) – an AI‑assisted integrated development environment built on Visual Studio Code that allows developers to generate or update code using natural language prompts.  
+- [Founder Institute Insights](https://fi.co/insights) – a collection of articles and resources, including a living spreadsheet cataloging AI tools for ideation and validation and other startup topics.  
 
 ---  
-Feel free to contribute additional resources or suggest improvements through pull requests. 
+Feel free to contribute additional resources or suggest improvements through pull requests.
