@@ -5,6 +5,7 @@ A curated collection of tools, directories and finance resources to help you bui
 - [Startup Stash](https://startupstash.com/) – a large directory of tools and resources covering categories like analytics, marketing, design and development.  
 - [Founder Institute Startup Resource Lists](https://fi.co/startup-resources) – region‑specific lists of accelerators, incubators, investors and more.  
 - [Awesome Startup Resources](https://github.com/ahmadnassri/awesome-startup-resources) – a curated GitHub list featuring general resources, learning materials, books, podcasts and tool categories.  
+- [Founder Shield Tools](https://tools.foundershield.com/) – interactive calculators and tools for startups, including insurance and valuation tools.  
 
 ## Collaboration & Project Management Tools  
 - [Trello](https://trello.com/) – a board‑based tool for organizing tasks and workflows.  
@@ -20,6 +21,7 @@ A curated collection of tools, directories and finance resources to help you bui
 
 ## Finance & Funding Resources  
 - [Lighter Capital Founders' Hub](https://www.lightercapital.com/founders-hub) – a library of guides on raising capital and mastering cash‑flow management.  
+- [Founder Shield Startup Insurance](https://foundershield.com/startup-insurance/) – information on startup insurance and coverage options.  
 
 ## AI Tools & Large Language Models (LLMs)  
 
@@ -58,6 +60,9 @@ A curated collection of tools, directories and finance resources to help you bui
 ### Free & Lightweight Options  
 - [GitHub Pages](https://pages.github.com/) – free static site hosting directly from your repo.  
 - [Firebase Hosting](https://firebase.google.com/products/hosting) – fast static and dynamic hosting with integrated backend.  
+
+## Startup Name Generators  
+- [Startup Name Generator](https://startupnamegenerator.ai/) – AI‑powered tool for brainstorming and generating startup names.  
 
 ---  
 Feel free to contribute additional resources or suggest improvements through pull requests.  
