@@ -30,6 +30,7 @@ A curated collection of tools, directories and finance resources to help you bui
 - [Google Gemini](https://ai.google/gemini) – Google’s multimodal AI with text, image, and reasoning capabilities.  
 - [Claude (Anthropic)](https://www.anthropic.com/claude) – AI assistant focused on thoughtful reasoning and safe outputs.  
 - [Perplexity](https://www.perplexity.ai) – AI research engine for factual information and summaries.  
+- [IdeaHunter](https://ideahunter.today) – AI startup idea research for demand signals, buyer pain, MVP scope, and monetization paths.  
 - [Notion AI](https://www.notion.so/product/ai) – built‑in AI for notes, documents, and task automation.  
 - [Midjourney](https://www.midjourney.com) – AI image generation for visuals, branding, and creative content.  
 - [Synthesia](https://www.synthesia.io) – AI video creation tool (text‑to‑video).  
