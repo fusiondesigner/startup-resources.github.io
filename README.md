@@ -16,6 +16,7 @@ A curated collection of tools, directories and finance resources to help you bui
 - [Zoho Bigin](https://www.zoho.com/bigin/) – a streamlined CRM for small businesses and startups.  
 
 ## Marketing Tools  
+- [Slovak Engagement-Rate Calculator](https://kupitsledovatelov.sk/tools/engagement-rate) – calculate (likes + comments) / followers, reach or views × 100 from manual counts; free, no signup, Slovak interface.
 - [Mailchimp](https://mailchimp.com/) – an email marketing platform for newsletters and campaigns.  
 - [Buffer](https://buffer.com/) – a social media scheduling tool to plan and publish posts.  
 
