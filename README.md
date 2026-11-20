@@ -21,6 +21,7 @@ A curated collection of tools, directories and finance resources to help you bui
 
 ## Finance & Funding Resources  
 - [Lighter Capital Founders' Hub](https://www.lightercapital.com/founders-hub) – a library of guides on raising capital and mastering cash‑flow management.  
+- [DDScore](https://www.ddscore.ai/) - Review pitch decks, financial models, and supporting documents for evidence gaps before investor due diligence.  
 - [Founder Shield Startup Insurance](https://foundershield.com/startup-insurance/) – information on startup insurance and coverage options.  
 
 ## AI Tools & Large Language Models (LLMs)  
